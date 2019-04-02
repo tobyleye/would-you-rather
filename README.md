@@ -1,4 +1,5 @@
 # would-you-rather
+A pointless game made with Vue.
 
 ## Project setup
 ```
